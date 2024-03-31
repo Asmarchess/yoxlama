@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: 100%;
+    background-color: rgb(211, 240, 240);
+    display: flex;
+    padding: 30px 0px;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.navbar__lists {
+    list-style-type: none;
+    display: flex;
+    font-family: "Open Sans", sans-serif;
+    gap: 20px;
+    font-size: 14px;
+
+}
+
+.ferqli {
+    background-color: rgb(102, 255, 0);
+    border-radius: 20px;
+    
+}
+
+.esas-qutu {
+
+    width: 100%;
+    height: 300px;
+    background-color: rgb(236, 161, 236);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.birinci {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.ikinci {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.banner {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(34, 210, 116);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bashliq {
+    width: 600px;
+    height: 60px;
+    background-color: white;
+}
+
+.bashliq2 {
+    width: 600px;
+    height: 60px;
+    background-color: white;
+}
+
+.qutular {
+    display: flex;
+    gap: 30px;
+
+}
+
+.qutular2 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+
+.qutu-1 {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+
+}
+
+.qutu-2 {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.qutu-3 {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.first {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(13, 208, 208);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.ucuncu {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.dorduncu {
+    width: 300px;
+    background-color: white;
+    height: 200px;
+}
+
+.banner2 {
+    width: 100%;
+    height: 800px;
+    background-color: rgb(213, 185, 185);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.qutu-11 {
+    background-color: white;
+}
+
+.qutu-12 {
+    background-color: white;
+
+}
+
+.qutu-13 {
+    background-color: white;
+
+}
+
+.qutu-14 {
+    background-color: white;
+
+}
+
+.qutu-15 {
+    background-color: white;
+}
+
+.qutu-16 {
+    background-color: white;
+}
